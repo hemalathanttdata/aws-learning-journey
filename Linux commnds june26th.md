@@ -61,6 +61,9 @@
 **Meaning:** Concatenate and display file contents  
 **Why:** View the entire contents of a small text file.  
 **Example:** cat file.txt
+using cat (to type multiple lines)
+cat >file.txt
+now type your text and press Ctrl+ D
 
 **less**
 
