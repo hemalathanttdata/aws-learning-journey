@@ -1,0 +1,118 @@
+TOP MOST IMPORTANT commands (DevOps + AWS perspective)
+1. Navigation & Files (Daily Use)
+
+ls
+ls -l
+cd
+pwd
+mkdir
+rm -r
+cp
+mv
+touch
+******Used for:
+
+Moving inside server
+Managing files
+
+2. File Reading & Logs (VERY IMPORTANT 🔥)
+cat
+less
+head
+tail
+tail -f
+******
+👉 Why important?
+
+Debug applications
+Check logs in real time
+Most used command in DevOps:  tail -f logfile.log
+
+ 3. Search & Filtering (Powerful)
+grep
+find
+Example:: grep "error" logfile.log
+
+👉 Used to:
+
+Find errors quickly
+
+4. Process Management (Critical)
+
+ps -ef
+top
+kill
+kill -9
+
+👉 Example:
+ps -ef | grep java
+kill -9 1234
+
+👉 Used when:
+
+App hangs
+Need to stop service
+
+5. System Monitoring (AWS EC2 must)
+free -m
+df -h
+du -sh *
+
+👉 Check:
+
+RAM usage
+Disk space
+
+6. Networking (Very Important)
+
+ping
+curl
+wget
+ssh
+
+👉 Example:
+
+curl http://localhost
+ssh user@ip
+
+👉 Used for:
+
+Server connection
+API testing
+
+7. Permissions & Ownership
+chmod
+chown
+
+👉 Example:
+
+chmod 755 script.sh
+
+👉 Used when:
+
+Script not running
+Access issues
+
+8. Service Management (AWS servers 🔥)
+
+systemctl start nginx
+systemctl stop nginx
+systemctl restart nginx
+systemctl status nginx
+
+👉 Used to:
+
+Start/stop apps
+Debug services
+
+9. Package Installation
+apt update
+apt install nginx
+
+10. Pipes (Advanced but daily use)
+
+|
+
+👉 Example:ps -ef | grep nginx
+👉 Combine commands ✅
+
