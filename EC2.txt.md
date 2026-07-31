@@ -253,3 +253,52 @@ What you handle: OS (Linux/Windows), Applications, Security settings
 - Just use it.
 
 \`\`**pay as you go modeal------aws**
+Mana EC2 Learning Order:
+
+EC2 Fundamentals
+Launch & Connect
+Linux Administration
+EBS & Snapshots
+Networking & Security
+IAM Roles
+Monitoring
+Automation (User Data)
+Auto Scaling & Load Balancer
+Real-time DevOps Projects
+
+Ee roadmap complete ayithe, DevOps Engineer perspective lo EC2 almost complete mastery untundi. 🚀
+
+EC2 is a virtual server provided by AWS that allows us to run applications without buying physical hardwar
+
+DevOps Perspective
+
+As a DevOps Engineer, EC2 is where you will:
+
+Deploy applications
+Configure web servers (Apache, Nginx)
+Install Docker
+Run Jenkins
+Host websites
+Execute scripts
+Configure CI/CD
+Monitor server health
+Troubleshoot issues
+Manage storage and networking
+
+Almost every AWS-based DevOps project involves EC2 in some way.
+Interview Definition ⭐
+
+Amazon EC2 (Elastic Compute Cloud) is an AWS service that provides resizable virtual servers in the cloud. It allows users to launch, manage, scale, and terminate compute resources on demand without maintaining physical hardware.
+🧠 Today's Concept Summary
+✅ Server = Computer that runs applications.
+✅ Before AWS, companies bought physical servers.
+✅ AWS introduced virtual servers on rent.
+✅ EC2 = Elastic Compute Cloud.
+✅ EC2 Instance = Virtual Machine.
+✅ Elastic = Scale up/down based on demand.
+✅ DevOps engineers use EC2 to deploy, manage, monitor, and automate applications.
+
+
+
+
+https://chatgpt.com/share/6a6ce3c2-8a04-83eb-bd0e-1e0e8ccf8e71-----very very importent link
